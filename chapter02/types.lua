@@ -1,0 +1,7 @@
+print(type("Hello world"))
+print(type(10.3*4))
+print(type(print))
+print(type(type))
+print(type(true))
+print(type(nil))
+print(type(type(X)))
